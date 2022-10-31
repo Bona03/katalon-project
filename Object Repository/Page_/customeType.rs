@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>customeType</name>
+   <tag></tag>
+   <elementGuidId>e3b68a0f-7ecc-4cab-bc1f-6a1305ed32c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;ddltype&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;ddltype&quot;]</value>
+      <webElementGuid>d78fbdbf-050d-433c-98ec-52365f2e671a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

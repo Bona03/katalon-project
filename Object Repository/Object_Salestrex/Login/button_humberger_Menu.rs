@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_humberger_Menu</name>
+   <tag></tag>
+   <elementGuidId>5b8dcab0-5a2f-4176-9fb3-a2bdc3db5dc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;hamburger-one&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;hamburger-one&quot;]</value>
+      <webElementGuid>cb6546d8-5dc3-4063-99cd-1f781d985df7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

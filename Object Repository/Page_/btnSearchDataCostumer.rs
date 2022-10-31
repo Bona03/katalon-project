@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnSearchDataCostumer</name>
+   <tag></tag>
+   <elementGuidId>c8a35a60-c441-4bc6-a9f2-03107fcfd55a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;btnSearch&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;btnSearch&quot;]</value>
+      <webElementGuid>40461af1-151e-46c6-81c9-da1b33aefd75</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

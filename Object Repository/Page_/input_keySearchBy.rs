@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_keySearchBy</name>
+   <tag></tag>
+   <elementGuidId>6c286a5d-759e-4b6b-96a0-9d824b7469b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;txtSearchBy&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;txtSearchBy&quot;]</value>
+      <webElementGuid>a3b7760f-c6e4-497a-9f6c-c4e27df89be5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

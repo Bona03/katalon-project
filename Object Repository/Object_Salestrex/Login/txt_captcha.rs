@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_captcha</name>
+   <tag></tag>
+   <elementGuidId>31c6ad71-4c19-4bea-843a-a784a80eaa40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;txbCaptcha&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;txbCaptcha&quot;]</value>
+      <webElementGuid>5bbe60bf-aae9-4db7-b259-1d2c703cc4cc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

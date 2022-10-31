@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_CustomerProfile</name>
+   <tag></tag>
+   <elementGuidId>62e4dc52-5df5-4972-a063-d340290cb620</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ddlCP</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ddlCP']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e44bdaca-0737-45d2-884b-e2a35b89ed67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ddlCP</value>
+      <webElementGuid>0c4c7d3c-4268-43f7-b4b2-2974c8ba2c86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'ddlCP\',\'\')', 0)</value>
+      <webElementGuid>df975f3d-f4e2-4865-8d5d-0d5cd3c3ce8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ddlCP</value>
+      <webElementGuid>670f1d21-6f86-400a-a584-8da24c7f9550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Personal
+	Company
+
+</value>
+      <webElementGuid>4295284f-d1ea-46ce-afa5-a1fffd329bbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlCP&quot;)</value>
+      <webElementGuid>586d98b3-e464-4450-a0f7-123f1b09889f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_InputCustomer/iframe_Log Out_FormFrame</value>
+      <webElementGuid>c9b32fde-fabe-4e71-84e7-7f5ffcda0930</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ddlCP']</value>
+      <webElementGuid>3310b721-5212-4f79-8745-33d88ac5223f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='isi']/ul/li[3]/p[2]/select</value>
+      <webElementGuid>68a44d95-1121-4af4-9a91-36b49f4a6b9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Profile'])[1]/following::select[1]</value>
+      <webElementGuid>85affab8-40e0-42c5-a721-65cceecbda43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Type'])[1]/following::select[2]</value>
+      <webElementGuid>b7c198f8-c766-4979-8c63-b8b2d04d3b34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Level'])[1]/preceding::select[1]</value>
+      <webElementGuid>8cba17da-acfd-45dc-ac3b-518aadcf8b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/preceding::select[2]</value>
+      <webElementGuid>e5c68432-92ff-4df0-85ca-77cdcd763ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/p[2]/select</value>
+      <webElementGuid>48d45eb5-61bd-475e-90c0-84127280e8a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ddlCP' and @id = 'ddlCP' and (text() = '
+	Personal
+	Company
+
+' or . = '
+	Personal
+	Company
+
+')]</value>
+      <webElementGuid>4eef2f1b-5745-426d-b127-9477cefe5f68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

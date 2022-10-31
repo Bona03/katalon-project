@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>imageKTP</name>
+   <tag></tag>
+   <elementGuidId>bf5258ce-b44b-4d98-a167-709e8eca94ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;fuKTP&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;fuKTP&quot;]</value>
+      <webElementGuid>3522366c-3e18-4335-87a3-2d87bdc7056f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_/iframe_Log Out_FormFrame</value>
+      <webElementGuid>d558d7c4-d940-490d-900a-01deabd3c30a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
